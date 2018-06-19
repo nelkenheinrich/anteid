@@ -6,5 +6,3 @@ Uraltcode aus den Anfängen meiner Android-Entwicklung. Ich kann den Server aus 
 https://play.google.com/store/apps/details?id=ch.commendatio.anteidFree
 
 https://play.google.com/store/apps/details?id=ch.commendatio.anteidDonate
-
-
