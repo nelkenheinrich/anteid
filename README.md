@@ -7,5 +7,3 @@ https://play.google.com/store/apps/details?id=ch.commendatio.anteidFree
 
 https://play.google.com/store/apps/details?id=ch.commendatio.anteidDonate
 
-
-
